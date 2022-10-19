@@ -9,7 +9,7 @@ hello Qingdao! hello git!
 hello Qingdao! hello git!
 hello Qingdao! hello git!
 hello Qingdao! hello git!
-hello Qingdao! hello git!
-hello Qingdao! hello git!
+hello Qingdao! hello git! master test
+hello Qingdao! hello git! hot-fix test
 
 version 2.1
